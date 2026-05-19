@@ -68,7 +68,7 @@
 
 - 🥇 **$10K Grant** — Won the AI × Journalism Hackathon with [MinneDigest](https://github.com/ekarati), an AI news-to-audio platform built in <24 hrs
 - 🛡️ **$1K Best Security Award** (Vanta) — On-device Health AI app with encrypted memory RAG, biometric access & hybrid semantic retrieval
-- ⚡ **<100ms latency** multi-agent LLM framework @ Supercell — modular agent planning, emotion systems, 1M+ vector embeddings
+- ⚡ **Project Paradox** — Showcased multi-agent LLM framework live at Supercell HQ to CEO Ilkka Paananen, Holly Liu (Kabam), Kun Gao (Crunchyroll), Aaron Loeb (LEGO), & Otto Söderlund (Supercell AI Lead)
 - 🌐 **3 years @ Microsoft** — debugged production failures for Tesla, Bank of America, UK Gov, Stanford Medicine; Global CSS Impact Award
 
 ---
