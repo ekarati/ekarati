@@ -82,7 +82,7 @@
 ---
 
 <div align="center">
-  <sub>Open to collaborating on agentic AI, security-focused AI systems, and applied GenAI research.<br/>If you're building something interesting — reach out via <a href="https://linkedin.com/in/ekarati">LinkedIn</a> or <a href="https://erinakarati.dev">erinakarati.dev</a></sub>
+  <sub>Open to collaborating on agentic AI, security-focused AI systems, and applied GenAI research.<br/>If you're building something interesting, reach out via <a href="https://linkedin.com/in/ekarati">LinkedIn</a> or <a href="https://erinakarati.dev">erinakarati.dev</a></sub>
 </div>
 
 <div align="center">
