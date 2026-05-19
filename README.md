@@ -63,19 +63,12 @@ I build agentic AI systems that are fast, observable, and useful in production �
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Highlights
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ekarati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=ekarati&theme=tokyonight&hide_border=true" height="160"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ekarati&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=true&area_color=7c3aed" width="95%"/>
-
-</div>
+- 🥇 **$10K Grant** — Won the AI × Journalism Hackathon with [MinneDigest](https://github.com/ekarati), an AI news-to-audio platform built in <24 hrs
+- 🛡️ **$1K Best Security Award** (Vanta) — On-device Health AI app with encrypted memory RAG, biometric access & hybrid semantic retrieval
+- ⚡ **<100ms latency** multi-agent LLM framework @ Supercell — modular agent planning, emotion systems, 1M+ vector embeddings
+- 🌐 **3 years @ Microsoft** — debugged production failures for Tesla, Bank of America, UK Gov, Stanford Medicine; Global CSS Impact Award
 
 ---
 
@@ -86,15 +79,6 @@ I build agentic AI systems that are fast, observable, and useful in production �
 </div>
 
 > ⚠️ To enable the snake: add a GitHub Actions workflow at `.github/workflows/snake.yml` → [see setup guide](https://github.com/Platane/snk)
-
----
-
-### 🏆 Highlights
-
-- 🥇 **$10K Grant** — Won the AI × Journalism Hackathon with [MinneDigest](https://github.com/ekarati), an AI news-to-audio platform built in <24 hrs
-- 🛡️ **$1K Best Security Award** (Vanta) — On-device Health AI app with encrypted memory RAG, biometric access & hybrid semantic retrieval
-- ⚡ **<100ms latency** multi-agent LLM framework @ Supercell — modular agent planning, emotion systems, 1M+ vector embeddings
-- 🌐 **3 years @ Microsoft** — debugged production failures for Tesla, Bank of America, UK Gov, Stanford Medicine; Global CSS Impact Award
 
 ---
 
