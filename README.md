@@ -78,8 +78,6 @@ I build agentic AI systems that are fast, observable, and useful in production �
   <img src="https://raw.githubusercontent.com/ekarati/ekarati/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
-> ⚠️ To enable the snake: add a GitHub Actions workflow at `.github/workflows/snake.yml` → [see setup guide](https://github.com/Platane/snk)
-
 ---
 
 <div align="center">
