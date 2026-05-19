@@ -25,14 +25,12 @@
 ### `whoami` 🧠
 
 <div align="center">
-
-| | |
-|:---:|:---|
-| 🎓 | **MS Computer Science @ UMN** · 4.0 GPA · Graduated May 2026 |
-| 💼 | **Microsoft** (3 yrs) → **Supercell** → LyftBridge Innovation |
-| 🔬 | Multi-agent LLM frameworks · RAG pipelines · On-device AI · Security-adjacent infra |
-| 🚀 | Building AI systems that are fast, observable, and useful in production — not just demos |
-
+<table>
+  <tr><td>🎓</td><td><b>MS Computer Science @ UMN</b> · 4.0 GPA · Graduated May 2026</td></tr>
+  <tr><td>💼</td><td><b>Microsoft</b> (3 yrs) → <b>Supercell</b> → LyftBridge Innovation</td></tr>
+  <tr><td>🔬</td><td>Multi-agent LLM frameworks · RAG pipelines · On-device AI · Security-adjacent infra</td></tr>
+  <tr><td>🚀</td><td>Building AI systems that are fast, observable, and useful in production — not just demos</td></tr>
+</table>
 </div>
 
 ---
