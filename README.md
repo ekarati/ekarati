@@ -11,11 +11,11 @@
 </a>
 &nbsp;
 <a href="https://erinakarati.dev">
-  <img src="https://img.shields.io/badge/Portfolio-erinakarati.dev-FF79C6?style=for-the-badge&logo=safari&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-erinakarati.dev-4B0082?style=for-the-badge&logo=safari&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:erina.karati@gmail.com">
-  <img src="https://img.shields.io/badge/Email-erina.karati@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-erina.karati@gmail.com-800000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
