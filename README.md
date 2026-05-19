@@ -24,13 +24,16 @@
 
 ### `whoami` 🧠
 
-```
-MS Computer Science @ UMN  ·  4.0 GPA  ·  Graduating May 2026
-Previously: Microsoft (3 yrs) → Supercell → LyftBridge Innovation
+<div align="center">
 
-Focus: Multi-agent LLM frameworks · RAG pipelines · On-device AI · Security-adjacent infra
-I build agentic AI systems that are fast, observable, and useful in production — not just demos.
-```
+| | |
+|:---:|:---|
+| 🎓 | **MS Computer Science @ UMN** · 4.0 GPA · Graduated May 2026 |
+| 💼 | **Microsoft** (3 yrs) → **Supercell** → LyftBridge Innovation |
+| 🔬 | Multi-agent LLM frameworks · RAG pipelines · On-device AI · Security-adjacent infra |
+| 🚀 | Building AI systems that are fast, observable, and useful in production — not just demos |
+
+</div>
 
 ---
 
@@ -38,24 +41,24 @@ I build agentic AI systems that are fast, observable, and useful in production �
 
 <div align="center">
 
-**AI / ML**
+<p><b>AI / ML</b></p>
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
-&nbsp;
+<br/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/FAISS-00599C?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white"/>
 
-**Cloud & Infra**
+<p><b>Cloud & Infra</b></p>
 
 <img src="https://skillicons.dev/icons?i=azure,gcp,aws,docker,linux&theme=dark" />
 
-**Languages**
+<p><b>Languages</b></p>
 
-<img src="https://skillicons.dev/icons?i=python,java,swift,c&theme=dark" />
-&nbsp;
+<img src="https://skillicons.dev/icons?i=java,swift,c&theme=dark" />
+<br/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
 
